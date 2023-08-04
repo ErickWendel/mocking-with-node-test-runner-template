@@ -1,0 +1,19 @@
+{
+  "name": "recorded",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "engines": {
+    "node": "v20.5.0"
+  },
+  "dependencies": {
+    "lokijs": "^1.5.12"
+  }
+}
