@@ -1,6 +1,6 @@
 # mocking-with-node-test-runner-template
 
-Initial template for my youtube video on unit testing services (databases, files, web APIs, etc).
+Initial template for my youtube video on [unit testing services (databases, files, web APIs, etc) - pt-br](https://bit.ly/testes-em-servicos-video).
 
 First of all, leave a star in this repo ⭐️
 
